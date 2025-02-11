@@ -14,7 +14,7 @@ const smallestSubWithSum = (arr: number[], x: number) => {
   }
   if (res === Infinity) return 0;
   return res;
-}
+};
 
 let arr = [1, 4, 45, 6, 10, 19];
 let x = 51;
