@@ -1,0 +1,22 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himanshm/problems.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/himanshm/problems/issues"
+  },
+  "homepage": "https://github.com/himanshm/problems#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
