@@ -17,8 +17,11 @@ const isAnagram = (s: string, t: string): boolean => {
     }
   }
   return true;
-}
+};
 
-const s = 'racecar', t = 'carrace';
+const s = 'racecar',
+  t = 'carrace';
 
-console.log(`String ${s} is an anagram of ${t}: ${isAnagram(s, t) ? 'Yes' : 'No'}`);
+console.log(
+  `String ${s} is an anagram of ${t}: ${isAnagram(s, t) ? 'Yes' : 'No'}`,
+);
